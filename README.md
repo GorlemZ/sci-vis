@@ -22,23 +22,23 @@ Future chapters will cover cotton production, trade flows, and crafting communit
 
 ### 🛠️ Tools
 
-- Python 3.x, Pandas, Requests
-- Plotly for interactive maps
-- Folium for geospatial visualization
+- Python 3.x with Jupyter Notebooks
+- Data Analysis: Pandas, NumPy
+- Visualization: Matplotlib, Plotly, Folium, Pywaffle
+- Geospatial: Geopandas
+- API Interactions: Requests
+- Utilities: tqdm
 
 ### 🚀 How to Run
 
-```
-pip install pandas requests plotly folium tqdm
+```bash
+# Install required libraries
+pip install pandas numpy matplotlib plotly folium geopandas requests tqdm pywaffle
+
+# Run notebooks by directory
 cd botany-and-distribution
 jupyter notebook CottonSpecies.ipynb
 ```
-
-### 🌟 Future Plans
-
-- Add economic and trade datasets
-- Visualize the transformation from cotton fiber to yarn and textiles
-- Storytelling with crafting communities and interactive maps
 
 ### 📄 License
 
